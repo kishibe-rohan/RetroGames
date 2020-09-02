@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.2rem;
+    color: #caa8f5;
+}
+
+body{
+    background: black;
+    color:white;
+    text-align: center;
+}
+
+#canvas{
+    background: black;
+    border-radius: 5px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    border: 2px solid yellow;
+    box-shadow: goldenrod;
+}
+
+.reset{
+    position: absolute;
+    top:95%;
+    left:10%;
+    width:80%;
+    text-align: center;
+}

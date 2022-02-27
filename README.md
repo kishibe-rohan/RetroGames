@@ -6,14 +6,14 @@ Growing up,I've been a huge fan of video games since my childhood.. So,when I go
 ![Retro](https://i.ibb.co/G9K09hS/invaders1.png)
 --
 
-<h3><b>Breakout:</b></h2>
+<h2><b>Breakout:</b></h2>
 <hr/>
 
 ![Breakout](https://i.ibb.co/7ppccsD/breakout1.png)
 ![Playing](https://i.ibb.co/xjjzB88/breakout2.png)
 <hr/>
 
-<h3><b>Minesweeper:</b></h3>
+<h2><b>Minesweeper:</b></h2>
 <hr/>
 
 ![MPlaying](https://i.ibb.co/YWXr56P/minesweeperplaying.png)
@@ -21,7 +21,7 @@ Growing up,I've been a huge fan of video games since my childhood.. So,when I go
 
 <hr/>
 
-<h3><b>Pong:</b></h3>
+<h2><b>Pong:</b></h2>
 <hr/>
 
 ![Pong](https://i.ibb.co/qdYSdRG/pong1.png)
@@ -29,7 +29,7 @@ Growing up,I've been a huge fan of video games since my childhood.. So,when I go
 
 <hr/>
 
-<h3><b>Pacman:</b></h3>
+<h2><b>Pacman:</b></h2>
 <hr/>
 
 ![Products](https://i.ibb.co/cbDWrDG/pac3.png)
@@ -39,7 +39,7 @@ Growing up,I've been a huge fan of video games since my childhood.. So,when I go
 
 <hr/>
 
-<h3><b>Space Invaders:</b></h3>
+<h2><b>Space Invaders:</b></h2>
 <hr/>
 
 ![Login](https://i.ibb.co/Yh0M8HY/invaders2.png)

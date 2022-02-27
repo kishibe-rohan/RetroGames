@@ -1,2 +1,47 @@
-# RetroGames
-A repository containing retro games such recreated in JavaScript (inspired by Dan Shiffman(Coding Train)!)
+<h1><b>RetroGames</b> | Logic Building By Creating Games</h1>
+
+Growing up,I've been a huge fan of video games since my childhood.. So,when I got into programming,it only made sense to try to understand and re-create the logic behind some of the games I grew up playing. Inspired by Dan Shiffman (Coding Train) and Ania Kubow,this repo was created to develop programming logic by creating some fun games!!
+--
+
+![Retro](https://i.ibb.co/G9K09hS/invaders1.png)
+--
+
+<h3><b>Breakout:</b></h2>
+<hr/>
+
+![Breakout](https://i.ibb.co/7ppccsD/breakout1.png)
+![Playing](https://i.ibb.co/xjjzB88/breakout2.png)
+<hr/>
+
+<h3><b>Minesweeper:</b></h3>
+<hr/>
+
+![MPlaying](https://i.ibb.co/YWXr56P/minesweeperplaying.png)
+![MLost](https://i.ibb.co/6YdHR4k/minesweeperlost.png)
+
+<hr/>
+
+<h3><b>Pong:</b></h3>
+<hr/>
+
+![Pong](https://i.ibb.co/qdYSdRG/pong1.png)
+![Ping](https://i.ibb.co/DfWpS4h/pong.png)
+
+<hr/>
+
+<h3><b>Pacman:</b></h3>
+<hr/>
+
+![Products](https://i.ibb.co/cbDWrDG/pac3.png)
+![Orders](https://i.ibb.co/nRvRDcn/pac2.png)
+![Users](https://i.ibb.co/py3RzBt/pac1.png)
+
+
+<hr/>
+
+<h3><b>Space Invaders:</b></h3>
+<hr/>
+
+![Login](https://i.ibb.co/Yh0M8HY/invaders2.png)
+
+<hr/>
